@@ -30,7 +30,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}
-        <BackgroundBeams />
+        <BackgroundBeams className="overflow-hidden"/>
 
       </body>
     </html>
