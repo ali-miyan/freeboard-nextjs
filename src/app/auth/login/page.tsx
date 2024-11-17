@@ -67,7 +67,7 @@ const LoginPage = () => {
             Sign in
           </Button>
           <div className="flex items-center justify-center space-x-1 text-sm">
-            <span className="text-violet-200/60">Don't have an account?</span>
+            <span className="text-violet-200/60">Dont have an account?</span>
             <button className="text-violet-400 hover:text-violet-300 hover:underline transition-colors">
               Sign up
             </button>
